@@ -1,5 +1,3 @@
 /node_modules
 
-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
-
 # ODEVO_SAUCE_DEMO_ASSIGNMENT
