@@ -1,3 +1,1 @@
 /node_modules
-
-# ODEVO_SAUCE_DEMO_ASSIGNMENT
